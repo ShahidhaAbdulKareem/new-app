@@ -1,0 +1,33 @@
+.center{
+    position: absolute;
+    margin-top: 273px;
+    margin-left: 435px;
+    width: 23px;
+    color: white;
+    font-weight: lighter;
+}
+.success{
+    position:absolute;
+    margin-top: 3px;
+    margin-left: 87px;
+    width: 23px;
+    color:white;
+    font-weight: lighter;
+    background: none;
+}
+.danger{
+    position:absolute;
+    margin-top: -19px;
+    margin-left: 25px;
+    width: 23px;
+    color:white;
+    font-weight: lighter; 
+    background: none;
+}
+.numb-count{
+    width: 13px;
+    margin-left: 57px;
+    background: none;
+    color: white;
+    border:0px solid;
+}

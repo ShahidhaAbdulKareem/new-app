@@ -1,0 +1,52 @@
+.navbar{
+    position:absolute;
+    width:100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 39px;
+    overflow: hidden;
+    background-color:black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 28px 61px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .active{
+     font-size: 20px;
+  }
+  .news{
+      font-size: 20px;
+      padding-left:70px;
+  }
+  .about{
+      font-size: 20px;
+      padding-left: 70px;
+  }
+  .contact{
+    font-size: 20px;
+    padding-left: 70px; 
+  }
+  .heart{
+      width:20px;
+      padding-left: 100px;
+  }
+  .cart{
+    width:20px;
+}
+.login{
+    width:20px;
+}

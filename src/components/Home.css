@@ -1,0 +1,242 @@
+.home{
+    background: #333;
+    height: 517px;
+    width: 100%;
+}
+
+.heading{
+    color: white;
+    position:absolute;
+    font-size: 42px;
+    line-height: 60px;
+    text-align: center;
+    font-family: Poppins;
+    top: 60px;
+    width: 100%;
+}
+
+.image{
+    position: absolute;
+    width: 100%;
+    height: 517px;
+    left: 0px;
+    background-image: url(./../assets/images/img1.png);
+    background-size: cover;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 532px;;
+    left: 0px;
+}
+
+.content{
+    position: absolute;
+    width:  100%;
+    top: 154px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 45px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.button-div{
+    position: absolute;
+    width: 204px;
+    height: 48px;
+    top: 388px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    right: 660px;
+}
+
+.read-more{
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 0px;
+    font-size: 27px;
+    font-weight: 300;
+    margin-top: 19px;
+}
+
+.home2{
+    background: #333;
+    height: 850px;
+    width: 100%;
+    align-items: center;
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 180px 200px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box1{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img2.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box1-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}
+
+.box2{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img3.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box2-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}
+
+.box3{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img4.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box3-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}
+
+.box4{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img5.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box4-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}.box5{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img6.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box5-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}
+
+.box6{
+    position: relative;
+    width: 504px;
+    height: 146px;
+    left: 0px;
+    background-image: url(./../assets/images/img7.png);
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+.box6-overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 504px;
+    height: 146px;;
+    left: 0px;
+    border-radius: 10px;
+}
+
+.heading-2{
+    position: absolute;
+    line-height: 200px;
+    color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+    font-size: 38px;
+}
+
+.h1{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 36px;
+}
+
+.button2{
+    position: absolute;
+    width: 204px;
+    height: 48px;
+    top: 1468px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    right: 660px;
+}
+
+.more{
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 0px;
+    font-size: 27px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.h1:hover{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.home3{
+    width: 100%;
+    height: 900px;
+    background-color: #333;
+}

@@ -1,0 +1,51 @@
+.headertwo{
+    background-color: #1C1A1A;
+    align-items: center;
+    height: 60px;
+    padding-top: 10px;
+}
+.headertwo-option{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    padding-left: 60px;
+    font-size: 20px;
+}
+  
+.headertwo-list{
+    float: left;
+    padding-left: 60px;
+}
+  
+.headertwo-list a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header-fav-icon{
+    color: white;
+    margin-top: -37px;
+}
+
+.header-cart-icon{
+    color: white;
+    margin-top: -40px;
+}
+
+.header-profile-icon{
+    color: white;
+    margin-top: -48px;
+}
+
+.headertwo-list2{
+    float: right;
+    padding-right: 36px;
+}
+
+a:hover{
+    background-color: transparent;
+}
